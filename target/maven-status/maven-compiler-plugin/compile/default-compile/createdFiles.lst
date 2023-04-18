@@ -1,0 +1,8 @@
+Modelo\animales.class
+servlets\ServletControlador.class
+Interfaces\CRUD.class
+Conexion\conexion.class
+com\mycompany\pettopics\JakartaRestConfiguration.class
+com\mycompany\pettopics\resources\JakartaEE8Resource.class
+Dao\animalesDAO.class
+servlets\ServletAnimalesIndex.class
